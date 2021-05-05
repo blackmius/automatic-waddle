@@ -1,0 +1,3 @@
+[submodule "packages/b"]
+	path = packages/b
+	url = https://github.com/blackmius/bookish-octo-palm-tree
